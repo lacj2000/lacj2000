@@ -1,6 +1,6 @@
 #  🤘 Hi! Luiz Junior aqui!
 
-👨‍💻 Desenvolvedor Fullstack & Mobile
+👨‍💻 Desenvolvedor Fullstack & Mobile<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — IFPI <br>
 
 ---
