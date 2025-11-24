@@ -26,15 +26,6 @@ Trabalho com as seguintes tecnologias e estou sempre aberto a aprender novas:
 <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
----
-
-## 📊 Estatísticas do GitHub
-
-Aqui estão algumas estatísticas do meu perfil, refletindo minha atividade e o uso de linguagens:
-
-<p align="center">
-
-</p>
 
 ---
 
